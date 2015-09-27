@@ -2,5 +2,15 @@
     <string name="app_name">LVS Menu</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="card_title_01">Powder chocolate biscuit</string>
+    <string name="card_title_02">Lollipop macaroon</string>
+    <string name="card_title_03">Chocolate cake</string>
+    <string name="card_title_04">Wafer wafer apple pie</string>
+    <string name="card_title_05">Sweet ice cream soufflé</string>
+
+    <string name="card_description_01">Sesame snaps bonbon toffee carrot cake jelly wafer.</string>
+    <string name="card_description_02">Lemon drops bear claw lollipop marshmallow wafer chocolate.</string>
+    <string name="card_description_03">Gummi bears donut chupa chups tiramisu gummi bears.</string>
+    <string name="card_description_04">Cotton candy donut sweet roll. Halvah icing cookie topping.</string>
+    <string name="card_description_05">Ice cream chupa chups carrot cake. Pastry cupcake liquorice.</string>
 </resources>

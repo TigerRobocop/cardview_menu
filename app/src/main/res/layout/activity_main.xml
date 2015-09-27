@@ -82,7 +82,7 @@
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:background="@color/yellow"
-                android:src="@drawable/ic_event_white_24dp"
+                android:src="@drawable/ic_event_white_48dp"
                 android:padding="5dp" />
 
             <LinearLayout
@@ -90,21 +90,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@color/pink"
-                android:padding="10dp">
+                android:padding="5dp">
 
                 <TextView
                     android:id="@+id/schedule_title"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="18sp"
-                    android:text="Agendar um horário"
+                    android:text="@string/card_title_01"
                     android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/schedule_description"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Agende um horário para lavagem do seu carro"
+                    android:text="@string/card_description_01"
                     android:textColor="@color/white" />
             </LinearLayout>
         </LinearLayout>
@@ -129,7 +129,7 @@
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:background="@color/yellow"
-                android:src="@drawable/ic_event_white_24dp"
+                android:src="@drawable/ic_account_circle_white_48dp"
                 android:padding="5dp" />
 
             <LinearLayout
@@ -137,21 +137,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@color/pink"
-                android:padding="10dp">
+                android:padding="5dp">
 
                 <TextView
                     android:id="@+id/profile_title"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="18sp"
-                    android:text="Agendar um horário"
+                    android:text="@string/card_title_02"
                     android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/profile_description"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Agende um horário para lavagem do seu carro"
+                    android:text="@string/card_description_02"
                     android:textColor="@color/white" />
             </LinearLayout>
         </LinearLayout>
@@ -175,7 +175,7 @@
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:background="@color/yellow"
-                android:src="@drawable/ic_event_white_24dp"
+                android:src="@drawable/ic_build_white_48dp"
                 android:padding="5dp" />
 
             <LinearLayout
@@ -183,21 +183,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@color/pink"
-                android:padding="10dp">
+                android:padding="5dp">
 
                 <TextView
                     android:id="@+id/settings_title"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="18sp"
-                    android:text="Agendar um horário"
+                    android:text="@string/card_title_03"
                     android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/settings_description"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Agende um horário para lavagem do seu carro"
+                    android:text="@string/card_description_03"
                     android:textColor="@color/white" />
             </LinearLayout>
         </LinearLayout>
@@ -221,7 +221,7 @@
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:background="@color/yellow"
-                android:src="@drawable/ic_event_white_24dp"
+                android:src="@drawable/ic_feedback_white_48dp"
                 android:padding="5dp" />
 
             <LinearLayout
@@ -229,21 +229,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@color/pink"
-                android:padding="10dp">
+                android:padding="5dp">
 
                 <TextView
                     android:id="@+id/contact_title"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="18sp"
-                    android:text="Agendar um horário"
+                    android:text="@string/card_title_04"
                     android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/contact_description"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Agende um horário para lavagem do seu carro"
+                    android:text="@string/card_description_04"
                     android:textColor="@color/white" />
             </LinearLayout>
         </LinearLayout>
@@ -268,28 +268,28 @@
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:background="@color/yellow"
-                android:src="@drawable/ic_event_white_24dp"
+                android:src="@drawable/ic_assessment_white_48dp"
                 android:padding="5dp" />
 
             <LinearLayout
                 android:orientation="vertical"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:padding="10dp">
+                android:padding="5dp">
 
                 <TextView
                     android:id="@+id/scheduledashboard"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="18sp"
-                    android:text="Agendar um horário"
+                    android:text="@string/card_title_05"
                     android:textColor="@color/white" />
 
                 <TextView
                     android:id="@+id/dashboard_description"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Agende um horário para lavagem do seu carro"
+                    android:text="@string/card_description_05"
                     android:textColor="@color/white" />
             </LinearLayout>
         </LinearLayout>
